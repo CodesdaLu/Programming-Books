@@ -7,12 +7,18 @@ Languages:
 * Portuguese
 * English
 
-# BOOKS📖</br>
+# 👩🏻‍💻 📖 Books every programmer should read </br>
 [CÓDIGO LIMPO](https://github.com/CodesdaLu/Programming-Books/blob/main/C%C3%B3digo%20limpo.pdf)</br>
+[CRACKING THE CODING INTERVIEW](https://github.com/CodesdaLu/Programming-Books/blob/main/CRACKING%20the%20%C2%B7%20CODING%20INTERVIEW.pdf)</br>
+[Como ser um programador melhor?](https://github.com/CodesdaLu/Programming-Books/blob/main/Como%20ser%20um%20programador%20melhor.pdf)</br>
+[O programador apaixonado- Construindo uma carreira notável em desenvolvimento de software](https://github.com/CodesdaLu/Programming-Books/blob/main/O%20Programador%20Apaixonado%20-%20Construindo%20uma%20carreira%20notavel%20em%20desenvolvimento%20de%20software.pdf)</br>
+[Refatoração - Aperfeiçoando o design de códigos existentes](https://github.com/CodesdaLu/Programming-Books/blob/main/Refatora%C3%A7%C3%A3o%20by%20Fowler%2C%20Martin.pdf)</br>
+[O programador pragmático](https://github.com/CodesdaLu/Programming-Books/blob/main/o-programador-pragmatico.pdf)</br>
 ## ALGORITMO
 [Algoritmos - Teoria e Prática](https://github.com/CodesdaLu/Books_Prog/blob/main/ALGORITMOS/Algoritmos%20-%20Teoria%20e%20Pr%C3%A1tica.pdf)</br>
 [Estruturas De Dados E Seus Algoritmos](https://github.com/CodesdaLu/Books_Prog/blob/main/ALGORITMOS/Estruturas%20De%20Dados%20E%20Seus%20Algoritmos.pdf)</br>
-[An Internal Link](/guides/content/editing-an-existing-page)
+[Algoritmo - Lógica para desenvolvimento de computadores](https://github.com/CodesdaLu/Programming-Books/blob/main/ALGORITMOS/ALGORITMOS%20-%20LOGICA%20PARA%20DESENVOLVIMENTO_%20DE%20PROGRAMA%C3%87AO%20DE%20COMPUTADORES.pdf)
+
 
 ##  LÓGICA DE PROGRAMAÇÃO
 [Fundamentos da programação de computadores_ algoritmos, PASCAL, C_C++ (padrão ANSI) e JAVA](https://github.com/CodesdaLu/Books_Prog/blob/main/LOGICA%20DE%20PROGRAMA%C3%87%C3%83O/Fundamentos%20da%20programa%C3%A7%C3%A3o%20de%20computadores_%20algoritmos%2C%20PASCAL%2C%20C_C%2B%2B%20(padr%C3%A3o%20ANSI)%20e%20JAVA.pdf)</br>
