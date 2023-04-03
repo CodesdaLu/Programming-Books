@@ -74,6 +74,16 @@ https://github.com/CodesdaLu/Books_Prog/blob/main/FRONT-END/Desenvolvimento%20We
 [Test-Driven Development with Python_ Obey the Testing Goat_ Using Django, Selenium, and JavaScript](https://github.com/CodesdaLu/Books_Prog/blob/main/BACK-END/PYTHON/Test-Driven%20Development%20with%20Python_%20Obey%20the%20Testing%20Goat_%20Using%20Django%2C%20Selenium%2C%20and%20JavaScript.pdf)</br>
 [Web Scraping with Python_ Collecting More Data from the Modern Web](https://github.com/CodesdaLu/Books_Prog/blob/main/BACK-END/PYTHON/Web%20Scraping%20with%20Python_%20Collecting%20More%20Data%20from%20the%20Modern%20Web.pdf)</br>
 
+
+### JAVA
+[Design Patterns com Java_ Projeto orientado a objetos guiado por padrões](https://github.com/CodesdaLu/Programming-Books/blob/main/BACK-END/JAVA/Design%20Patterns%20com%20Java_%20Projeto%20orientado%20a%20objetos%20guiado%20por%20padr%C3%B5es.pdf)</br>
+[Java - Frameworks e Aplicações Corporativas](https://github.com/CodesdaLu/Programming-Books/blob/main/BACK-END/JAVA/Java%20-%20Frameworks%20e%20Aplica%C3%A7%C3%B5es%20Corporativas.pdf)</br>
+[Java Programming For Beginners - A Simple Start to Java Programming](https://github.com/CodesdaLu/Programming-Books/blob/main/BACK-END/JAVA/Java_%20Java%20Programming%20For%20Beginners%20-%20A%20Simple%20Start%20to%20Java%20Programming.pdf)</br>
+[Programação em Java](https://github.com/CodesdaLu/Programming-Books/blob/main/BACK-END/JAVA/Programa%C3%A7%C3%A3o%20em%20Java.pdf)</br>
+[Spring MVC_ Domine o principal framework web Java](https://github.com/CodesdaLu/Programming-Books/blob/main/BACK-END/JAVA/Spring%20MVC_%20Domine%20o%20principal%20framework%20web%20Java.pdf)</br>
+[java basico e orientação a objetos](https://github.com/CodesdaLu/Programming-Books/blob/main/BACK-END/JAVA/java%20basico%20e%20orienta%C3%A7%C3%A3o%20a%20objetos.pdf)</br>
+[java interview questions_ Top 20 java interview programs and answers](https://github.com/CodesdaLu/Programming-Books/blob/main/BACK-END/JAVA/java%20interview%20questions_%20Top%2020%20java%20interview%20programs%20and%20answers.pdf)</br>
+
 Contribute with:</br>
 ⭐ Star in the repository</br>
 👍 Follow me</br>
