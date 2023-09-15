@@ -50,6 +50,14 @@ https://github.com/CodesdaLu/Books_Prog/blob/main/FRONT-END/Desenvolvimento%20We
 
 ## BACK-END
 
+### C#
+[C# para inicantes](https://github.com/CodesdaLu/Programming-Books/blob/main/BACK-END/C%23/CSharpIniciantes.pdf)</br>
+[C# e orientação a objetos](https://github.com/CodesdaLu/Programming-Books/blob/main/BACK-END/C%23/POO.md)</br>
+[Use a cabeça C#](https://github.com/CodesdaLu/Programming-Books/blob/main/BACK-END/C%23/Use%20a%20Cabe%C3%A7a%20-%20C%23%20(1).pdf)</br>
+[Apostila C# e orientação a objetos](https://github.com/CodesdaLu/Programming-Books/blob/main/BACK-END/C%23/apostila-csharp-orientacao-objetos.pdf)</br>
+[Design Patterns com C#- Aprenda padrões de projetos com os games](https://github.com/CodesdaLu/Programming-Books/blob/main/BACK-END/C%23/design-patterns-com-c-aprenda-padroes-de-projeto-com-os-games_compress.pdf)</br>
+
+
 ### PHP
 [Análise de vulnerabilidades em sistemas web com PHP](https://github.com/CodesdaLu/Books_Prog/blob/main/BACK-END/PHP/An%C3%A1lise%20de%20vulnerabilidades%20em%20sistemas%20web%20com%20PHP.pdf)</br>
 [Core PHP Programming Using PHP to Build Dynamic Web Sites](https://github.com/CodesdaLu/Books_Prog/blob/main/BACK-END/PHP/Core%20PHP%20Programming%20Using%20PHP%20to%20Build%20Dynamic%20Web%20Sites.pdf)</br>
