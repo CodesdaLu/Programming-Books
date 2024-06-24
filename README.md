@@ -17,7 +17,11 @@ Languages:
 ## ALGORITMO
 [Algoritmos - Teoria e Prática](https://github.com/CodesdaLu/Books_Prog/blob/main/ALGORITMOS/Algoritmos%20-%20Teoria%20e%20Pr%C3%A1tica.pdf)</br>
 [Estruturas De Dados E Seus Algoritmos](https://github.com/CodesdaLu/Books_Prog/blob/main/ALGORITMOS/Estruturas%20De%20Dados%20E%20Seus%20Algoritmos.pdf)</br>
-[Algoritmo - Lógica para desenvolvimento de computadores](https://github.com/CodesdaLu/Programming-Books/blob/main/ALGORITMOS/ALGORITMOS%20-%20LOGICA%20PARA%20DESENVOLVIMENTO_%20DE%20PROGRAMA%C3%87AO%20DE%20COMPUTADORES.pdf)
+[Algoritmo - Lógica para desenvolvimento de computadores](https://github.com/CodesdaLu/Programming-Books/blob/main/ALGORITMOS/ALGORITMOS%20-%20LOGICA%20PARA%20DESENVOLVIMENTO_%20DE%20PROGRAMA%C3%87AO%20DE%20COMPUTADORES.pdf)</br>
+[Entendendo Algoritimos](https://github.com/marcelolemes/Programming-Books/blob/61d88b38a1de6344ba3ac19e8779562397a0ea0d/ALGORITMOS/Entendendo%20Algoritmos%20-%201%C2%AA%20Edi%C3%A7%C3%A3o%20-%20Aditya%20Y.%20Bhargava%20-%202017.pdf)</br>
+[ALGORITMOS/Estruturas de dados e algoritmos com JavaScript (Loiane Groner)](https://github.com/marcelolemes/Programming-Books/blob/61d88b38a1de6344ba3ac19e8779562397a0ea0d/ALGORITMOS/Estruturas%20de%20dados%20e%20algoritmos%20com%20JavaScript%20(Loiane%20Groner)%20.pdf)</br>
+[Arquitetura Limpa - O Guia do Artesão para Estrutura e Design de Software (Robert C. Martin)](https://github.com/marcelolemes/Programming-Books/blob/61d88b38a1de6344ba3ac19e8779562397a0ea0d/Arquitetura%20Limpa%20-%20O%20Guia%20do%20Artes%C3%A3o%20para%20Estrutura%20e%20Design%20de%20Software%20(Robert%20C.%20Martin)%20(z-lib.org).pdf)</br>
+
 
 
 ##  LÓGICA DE PROGRAMAÇÃO
